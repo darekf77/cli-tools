@@ -48,10 +48,12 @@ Thumbs.db
 
 
 # container/workspace git projects
+/http-server
 /leaf-cli
 /magic-renamer
 /navi-cli
 /node-cli-tester
+/vscode-vsce
 
 # =====================
 *.filetemplate

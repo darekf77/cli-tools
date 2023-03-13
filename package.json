@@ -4,10 +4,12 @@
     "version": "v3",
     "type": "container",
     "linkedProjects": [
+      "http-server",
       "leaf-cli",
       "magic-renamer",
       "navi-cli",
-      "node-cli-tester"
+      "node-cli-tester",
+      "vscode-vsce"
     ],
     "overrided": {
       "linkedFolders": [],
