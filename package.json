@@ -6,7 +6,6 @@
     "linkedProjects": [
       "http-server",
       "leaf-cli",
-      "magic-renamer",
       "navi-cli",
       "ng2-rest-swagger-generator",
       "node-cli-tester",
