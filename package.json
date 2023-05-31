@@ -3,6 +3,7 @@
     "resources": [],
     "version": "v3",
     "type": "container",
+    "generateChangelog": true,
     "linkedProjects": [
       "http-server",
       "leaf-cli",
