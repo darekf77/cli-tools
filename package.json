@@ -5,6 +5,7 @@
     "type": "container",
     "generateChangelog": true,
     "linkedProjects": [
+      "cez-cli",
       "http-server",
       "leaf-cli",
       "navi-cli",

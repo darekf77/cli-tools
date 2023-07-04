@@ -48,6 +48,7 @@ Thumbs.db
 
 
 # container/workspace git projects
+/cez-cli
 /http-server
 /leaf-cli
 /navi-cli
